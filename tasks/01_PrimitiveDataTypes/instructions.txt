@@ -1,1 +1,11 @@
+Instructions
+Familiarize yourself with solidity data types, and provide example for each of the solidity value types below, make sure you give at least 1 usecase you believe they can be used for:
 
+Solidity value types
+Signed integers
+Unsigned integers
+Boolean
+Addresses
+Enums
+Bytes
+Your solution should be saved in a .sol file with comments and examples on the various primitive data types. That way you can also test them on Remix yourself.
